@@ -1,5 +1,5 @@
 function preload(){
-	sound = loadSound('natural-ambiences---binaural-forest-mountain-ridge-wind-distant-birds by sonic-bat Artlist.wav');
+	sound = loadSound('m2.wav');
   }
   
   function setup(){
